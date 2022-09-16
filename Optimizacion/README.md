@@ -1,6 +1,7 @@
 # Optimización
 ## Descripcion del Proyecto
 El objetivo del proyecto era emplear los metodos de Descenos Rapido y de Newton para encontrar raices y posteriormente aplicarle el Criterio de la hessiana para determinar de que tipo son (maximos, mínimos y puntos de sela). 
+
 Nosotros decidimos encontrar TODAS las raices (no requerido por el proyecto) y realizar un mapeado de la sección del mar (lo que representaba nuestra función en el intervalo dado) y poder crear un grafo con todas las puntos criticos (asignados unos pesos según su tipo) y así poder crear un sistema de navegación marítima.
 
 ## Disclaimer:
