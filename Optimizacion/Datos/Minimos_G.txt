@@ -1,0 +1,51 @@
+Punto (-4.7123897792000085, 3.141588886373728):
+Valor entre iterantes moi proximo, posible minimo de G -> Posible Punto de Sela de h
+----------------------
+Punto (-3.8064920589987383, -1.5707964908491387):
+Valor entre iterantes moi proximo, posible minimo de G -> Posible Punto de Sela de h
+----------------------
+Punto (-4.9475156579306985, 1.5707923186258386):
+Valor entre iterantes moi proximo, posible minimo de G -> Posible Punto de Sela de h
+----------------------
+Punto (-4.477262299998509, -1.5707940737626036):
+Valor entre iterantes moi proximo, posible minimo de G -> Posible Punto de Sela de h
+----------------------
+Punto (-3.571365266427268, -4.712388712201756):
+Valor entre iterantes moi proximo, posible minimo de G -> Posible Punto de Sela de h
+----------------------
+Punto (-4.477262301529346, -1.5707987071071923):
+Valor entre iterantes moi proximo, posible minimo de G -> Posible Punto de Sela de h
+----------------------
+Punto (-4.4772622987878945, 4.7123851487100055):
+Valor entre iterantes moi proximo, posible minimo de G -> Posible Punto de Sela de h
+----------------------
+Punto (-3.8064920733432044, 4.712389206288708):
+Valor entre iterantes moi proximo, posible minimo de G -> Posible Punto de Sela de h
+----------------------
+Punto (-3.571365320734128, 1.570796610995497):
+Valor entre iterantes moi proximo, posible minimo de G -> Posible Punto de Sela de h
+----------------------
+Punto (-2.7118199877806797, -1.5707962286283246):
+Valor entre iterantes moi proximo, posible minimo de G -> Posible Punto de Sela de h
+----------------------
+Punto (-2.7118200390663687, 4.712389314974105):
+Valor entre iterantes moi proximo, posible minimo de G -> Posible Punto de Sela de h
+----------------------
+Punto (-2.4766933249786156, -4.712388170189327):
+Valor entre iterantes moi proximo, posible minimo de G -> Posible Punto de Sela de h
+----------------------
+Punto (-2.47669323641809, 1.5707961063836946):
+Valor entre iterantes moi proximo, posible minimo de G -> Posible Punto de Sela de h
+----------------------
+Punto (-1.5707964137882027, 4.098570131932164e-07):
+Valor entre iterantes moi proximo, posible minimo de G -> Posible Punto de Sela de h
+----------------------
+Punto (-1.8059229507650445, 1.5707956351514045):
+Valor entre iterantes moi proximo, posible minimo de G -> Posible Punto de Sela de h
+----------------------
+Punto (-0.6648992542553792, -1.570795948218204):
+Valor entre iterantes moi proximo, posible minimo de G -> Posible Punto de Sela de h
+----------------------
+Punto (0.4297726088256037, -1.570796614656943):
+Valor entre iterantes moi proximo, posible minimo de G -> Posible Punto de Sela de h
+----------------------
